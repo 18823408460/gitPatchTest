@@ -3,3 +3,4 @@ master add second;
 master add three;
 master add four ;
 master add five;
+master add six
